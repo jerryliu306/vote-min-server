@@ -24,3 +24,5 @@ npm install
 # run server
 node app.js
 ```
+### 联系我
+如果有其他问题,请提 **issue**
